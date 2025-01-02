@@ -11,9 +11,10 @@ Side note: I use Feedly as my RSS reader. Much better than Thunderbird, which I 
 - [Stratechery](https://stratechery.com/) - email
 - [DevOps'ish](https://devopsish.com/) - email
 - [Smashing Magazine](https://www.smashingmagazine.com/) - email
+- [TLDR](https://tldr.tech/) - email
+
 ### Cloud
 - [Last Week in AWS](https://www.lastweekinaws.com/) - email
-- [TLDR](https://tldr.tech/) - email
 
 ## Security
 - [Dark Reading](https://www.darkreading.com/) - RSS via Feedly
